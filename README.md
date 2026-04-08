@@ -8,7 +8,7 @@ In today's fast-paced world, students and busy professionals often struggle to s
 
 **Smart Timetable Tracker with Auto Alarm** is an intelligent app that eliminates manual input hassles. Simply upload your timetable file (like a .txt or .docx from your college portal or planner), and the app automatically parses it into a structured schedule. It sets smart alarms and notifications for every task, ensuring you never miss a beat— all without typing a single detail!
 
-## 3. How It Works
+## 3. How It Works 
 
 1. **Upload Your Timetable**: Drop in a file containing your schedule (e.g., \"Monday 9AM Math Class\").
 2. **Smart Parsing**: The app scans the file and extracts key details:
